@@ -39,34 +39,6 @@ ContactsManager/
 
 ---
 
-## ▶️ How to Use
-
-### Requirements
-
-- Python 3.x
-
-### Run the program
-
-```bash
-python ContactsManager.py
-```
-
-### Run the tests
-
-```bash
-python -m unittest discover -s test
-```
-
----
-
-## 🧪 What the Test Does
-
-* Inserts a sample contact
-* Triggers saving to the `.txt` file
-* Verifies the file exists and contains the expected values
-
----
-
 ## 📌 Notes
 
 * Contact phone numbers must be 10 digits.
